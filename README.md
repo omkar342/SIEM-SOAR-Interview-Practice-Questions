@@ -50,6 +50,19 @@ Focuses on **LTM Cybersecurity Roles (JD #1 & JD #2)**:
 
 ---
 
+### 🟣 3. TecPlix Interview Preparation Track
+Folder: 📁 **`TecPlix_Interview_Prep/`**
+
+Focuses on **SIEM & SOAR Engineering, Real-World Playbooks, and Actual Interview Questions**:
+
+- 📄 **[Actual_Interview_Questions.md](file:///home/omkar/All%20Projects/SIEM%20&%20SOAR%20Interview%20Practice%20Questions/TecPlix_Interview_Prep/Actual_Interview_Questions.md)**  
+  *High-yield scenario questions: Malicious IP triage, vulnerability alert correlation, multi-signal confidence scoring, IOC lifecycles, end-to-end playbook creation flow, Top 5 real-world playbooks (Phishing, Malware, Account Compromise, Threat Intel, Endpoint Isolation), Playbook Data Sources, Cybersecurity Ontology, and Visibility Families.*
+
+- 📄 **[interview_questions.md](file:///home/omkar/All%20Projects/SIEM%20&%20SOAR%20Interview%20Practice%20Questions/TecPlix_Interview_Prep/interview_questions.md)**  
+  *Comprehensive master list of technical and operational interview questions covering SIEM architectures, correlation rules, SOAR playbooks, detection engineering, and incident response.*
+
+---
+
 ## 🛠️ Repository Folder Structure Overview
 
 ```
@@ -64,7 +77,12 @@ SIEM & SOAR Interview Practice Questions/
 │   ├── Quick_Reference_Security_Concepts.md
 │   └── Security_Concepts_with_Analogies.md
 │
-└── LTM_Interview_Prep/
-    ├── LTM_Senior_Consultant_CyberSecurity_QnA.md    [JD #1: Senior Consultant CyberSecurity]
-    └── LTM_JD2_AI_Security_Operations_QnA.md         [JD #2: AI Security Operations & Automation]
+├── LTM_Interview_Prep/
+│   ├── LTM_Senior_Consultant_CyberSecurity_QnA.md    [JD #1: Senior Consultant CyberSecurity]
+│   └── LTM_JD2_AI_Security_Operations_QnA.md         [JD #2: AI Security Operations & Automation]
+│
+└── TecPlix_Interview_Prep/
+    ├── Actual_Interview_Questions.md                 [High-Yield Technical Q&A & Playbooks]
+    └── interview_questions.md                        [SIEM & SOAR Technical Questions]
 ```
+
